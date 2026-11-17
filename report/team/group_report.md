@@ -3,9 +3,9 @@
 ## 1. Thông tin nhóm
 
 - Tên nhóm: MinhVinh
-- Thành viên: Nguyễn Cao Minh và Tào Quang Vinh; thông tin chi tiết ở [TEAM.md](../../TEAM.md).
+- Thành viên: xem [TEAM.md](../../TEAM.md).
 - Repo: https://github.com/caominhnguyen05/K5-L3B-DAY08-MinhVinh-FromWorkflowsToAgents, nhánh `main`.
-- Commit chốt: `47809a4`.
+- Commit chốt: `8577e13`.
 
 ## 2. Mục tiêu và cách tiếp cận
 
@@ -50,5 +50,5 @@ MockLLM là stand-in xác định, không đại diện model sản xuất; chi 
 
 ## 8. Tài liệu tham khảo
 
-- Cemri et al. (2025), [Why Do Multi-Agent LLM Systems Fail?](https://proceedings.neurips.cc/paper_files/paper/2025/hash/b1041e52d3be19f0a9bc491657488e4a-Abstract-Datasets_and_Benchmarks_Track.html), NeurIPS 2025 Datasets and Benchmarks Track.
-- Số liệu benchmark/crash/ablation trong `src/reports/benchmark.json`, `src/reports/crash.json` và `src/reports/ablation_no_refund_history.json`.
+- Slide bài giảng Day 08 của chương trình AI Thực Chiến khóa V.
+- Blog [Building effective agents](https://www.anthropic.com/research/building-effective-agents) của Anthropic.
