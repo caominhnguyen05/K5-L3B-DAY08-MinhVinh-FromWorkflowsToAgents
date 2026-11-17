@@ -2,10 +2,10 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm:
-- Lớp: L3A
-- Repo nhóm: `K5-L3A-DAY08-TenNhom-FromWorkflowsToAgents` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt:
+- Tên nhóm: MinhVinh
+- Lớp: L3B
+- Repo nhóm: `K5-L3B-DAY08-MinhVinh-FromWorkflowsToAgents`
+- URL repo, nhánh nộp, commit chốt: https://github.com/caominhnguyen05/K5-L3B-DAY08-MinhVinh-FromWorkflowsToAgents, `main`, commit docs chốt sẽ điền sau khi commit
 
 ## Thành viên
 
@@ -25,30 +25,10 @@ Gợi ý chia vai:
 
 | Người | Vai | Commit | Test đã thêm hoặc sửa |
 | --- | --- | --- | --- |
-| | | | |
+| Nguyễn Cao Minh | Workflow + integration; single | `cc5e6da`, `3b5d86b` | `src/tests/test_workflow.py`, `src/tests/test_single.py` |
+| Tào Quang Vinh | Orchestrator + handoff; ledger + evaluation | chờ commit | `src/tests/test_orchestrator.py` |
 
 ## Cá nhân
 
-Mỗi thành viên đồng thời tạo một báo cáo riêng trong `report/` theo dạng:
-
-```text
-report/team/MSSV_HoTen.md
-```
-
-Ví dụ: `report/team/20241234_NguyenVanAn.md`.
-
-Sao chép mục dưới đây cho từng thành viên.
-
-## MSSV_HoTen
-
-### Phần việc phụ trách
-
--
-
-### Đóng góp cụ thể
-
--
-
-### Bằng chứng
-
--
+- [Nguyễn Cao Minh — 2A202604099](report/team/2A202604099_NguyenCaoMinh.md)
+- [Tào Quang Vinh — 2A202604081](report/team/2A202604081_TaoQuangVinh.md)
