@@ -11,8 +11,8 @@
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 |        |      |       |        |         |
-|   2 |        |      |       |        |         |
+|   1 | Nguyễn Cao Minh       | 2A202604099     | 26ai.minhnc@vinuni.edu.vn       |  https://github.com/caominhnguyen05    |  Workflow + integration; single       | 
+|   2 |   Tào Quang Vinh     |  2A202604081    |  26ai.vinhtq3@vinuni.edu.vn     |   https://github.com/qvinhh2312     | orchestrator + handoff; ledger + evaluation.        | 
 
 Gợi ý chia vai:
 
