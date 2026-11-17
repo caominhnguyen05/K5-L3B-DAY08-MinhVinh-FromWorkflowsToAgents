@@ -20,7 +20,7 @@ Orchestrator + handoff; ledger/crash integration; tổng hợp benchmark và bá
 
 ## 4. Bằng chứng
 
-- Commit code đầu tiên và commit tài liệu: sẽ điền hash sau khi commit.
+- Commit code/reports: `47809a4`; commit hash trong ADR/TEAM được ghi ở commit tài liệu tiếp theo.
 - `python -m pytest -q`: 77 passed, 248 deselected.
 - `python -m lab8.crash_test --count 20 --out reports/crash.json`: `crash_safety 20/20`.
 - Benchmark 4 shape: workflow 70/70, run `R-workflow-C-001-s11`; cost/success 27.86 VND, pass^5 1.000.

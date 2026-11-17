@@ -5,7 +5,7 @@
 - Tên nhóm: MinhVinh
 - Lớp: L3B
 - Repo nhóm: `K5-L3B-DAY08-MinhVinh-FromWorkflowsToAgents`
-- URL repo, nhánh nộp, commit chốt: https://github.com/caominhnguyen05/K5-L3B-DAY08-MinhVinh-FromWorkflowsToAgents, `main`, commit docs chốt sẽ điền sau khi commit
+- URL repo, nhánh nộp, commit chốt: https://github.com/caominhnguyen05/K5-L3B-DAY08-MinhVinh-FromWorkflowsToAgents, `main`, `47809a4`
 
 ## Thành viên
 
@@ -26,7 +26,7 @@ Gợi ý chia vai:
 | Người | Vai | Commit | Test đã thêm hoặc sửa |
 | --- | --- | --- | --- |
 | Nguyễn Cao Minh | Workflow + integration; single | `cc5e6da`, `3b5d86b` | `src/tests/test_workflow.py`, `src/tests/test_single.py` |
-| Tào Quang Vinh | Orchestrator + handoff; ledger + evaluation | chờ commit | `src/tests/test_orchestrator.py` |
+| Tào Quang Vinh | Orchestrator + handoff; ledger + evaluation | `47809a4` | `src/tests/test_orchestrator.py` |
 
 ## Cá nhân
 

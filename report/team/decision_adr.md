@@ -3,7 +3,7 @@
 Điền sau dấu `:` trên cùng dòng, giữ nguyên nhãn. Số liệu lấy từ benchmark mới nhất: 4 shape × 14 claim × 5 seed.
 
 - Shape chọn: workflow
-- Commit hash: chờ commit code đầu tiên
+- Commit hash: 47809a4
 - Run id dẫn chứng: R-workflow-C-001-s11
 - Pass rate / pass^5 / seed min-max / variance: 1.000 / 1.000 / 1.000–1.000 / 0.000000 (70/70)
 - Cost per success (mô phỏng, VND): 27.86

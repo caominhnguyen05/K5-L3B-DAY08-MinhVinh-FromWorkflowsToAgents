@@ -5,7 +5,7 @@
 - Tên nhóm: MinhVinh
 - Thành viên: Nguyễn Cao Minh và Tào Quang Vinh; thông tin chi tiết ở [TEAM.md](../../TEAM.md).
 - Repo: https://github.com/caominhnguyen05/K5-L3B-DAY08-MinhVinh-FromWorkflowsToAgents, nhánh `main`.
-- Commit chốt: điền sau commit cuối.
+- Commit chốt: `47809a4`.
 
 ## 2. Mục tiêu và cách tiếp cận
 
